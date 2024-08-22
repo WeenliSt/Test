@@ -1,0 +1,110 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Temp.meta
+Obj/
+Obj.meta
+UnityGenerated/
+UnityGenerated.meta
+Library/
+Library.meta
+#Builds/
+Builds.meta
+iOSBuilder/iOS/
+iOSBuilder/iOS.meta
+#Assets/Bundles/
+#Assets/Bundles.meta
+#AssetBundles/
+
+# ====== #
+# csproj #
+# ====== #
+/.idea/.idea.santa/.idea/workspace.xml
+/AppleAuth.csproj
+/AppleAuth.Editor.csproj
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp-Editor-firstpass.csproj
+/Assembly-CSharp-firstpass.csproj
+/obj/Debug/AppleAuth.csprojAssemblyReference.cache
+/obj/Debug/AppleAuth.Editor.csprojAssemblyReference.cache
+/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+/santa.sln
+/santa.sln.DotSettings.user
+
+# ======= #
+# Bundles #
+# ======= #
+/Bundles/
+
+# ============================================= #
+# Visual Studio / Rider / MonoDevelop generated #
+# ============================================= #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.idea
+Assets/Plugins/Editor
+Assets/Plugins/Editor.meta
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Commont Library files excluded from project VCS
+# because it stored in own repo.
+Assets/!Test!
+Assets/!Test!.meta
+/Build
+debug-glsl-error-in-d3dcompile-orig.txt
+AdjustPostBuildAndroidLog.txt
+debug-glsl-error-in-d3dcompile.txt
+debug-glsl-error-in-preprocessor.txt
+#
+# VoxelBuster
+#
+#
+Assets/Resources/VoxelBusters/ShaderUtility *.asset
+Assets/Resources/VoxelBusters/ShaderUtility *.asset.meta
+#
+# Tools
+#
+diff-error.txt
+diff-out.txt
+
+
+
+.vs/**/storage.ide
+/.vs/slnx.sqlite
+/Assets/AssetBundles/
+/Assets/AssetBundles
+/.vs/VSWorkspaceState.json
+/Assets/Plugins/Editor/JetBrains.meta
+/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
+/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta
+/BundleFiles/
+/Builds/Android/
+/AssetBundles
+
+\.vs/config/
+/Builds/PC/
+/Logs
+Builds/HotelBlastAndroid
+.vs
+/UserSettings
